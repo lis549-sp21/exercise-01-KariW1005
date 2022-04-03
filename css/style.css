@@ -1,13 +1,14 @@
-body{
+.body {
     font-size: 16px;
-    font-family: 'Helvetica';
+    font-family: Helvetica;
 }
-p{
+p {
     line-height: 1.5;
 }
-img{
+
+img {
     max-height: 400px;
 }
-.highlighted{
+.highlighted {
     color:rebeccapurple;
 }
